@@ -11,13 +11,13 @@ The following steps describe the workflow that's shown in the architecture diagr
 4. **Dynamics 365 Business Central**: This is the target system where the synchronized data from the website is stored and managed. It is a fully managed SaaS solution operated by Microsoft, and it serves as the central hub for business operations. The synchronization process ensures that the data in Business Central is always up-to-date with the latest information from the website.
 
 ## Components
-#### 1. **Public website**: These components are not part of the project's scope and are shown in the tiagram exclusively to procide contextual inforpation.
+ 1. **Public website**: These components are not part of the project's scope and are shown in the tiagram exclusively to procide contextual inforpation.
 
-#### 2. **Azure-Logic apps**: Orchestrator of the synchronization process. It can be triggered by an event or on a scheduled basis. It retrieves data from the PostgreSQL database, transforms it as needed, and then updates or creates corresponding records in Dynamics 365 Business Central using its APIs.
+ 2. **Azure-Logic apps**: Orchestrator of the synchronization process. It can be triggered by an event or on a scheduled basis. It retrieves data from the PostgreSQL database, transforms it as needed, and then updates or creates corresponding records in Dynamics 365 Business Central using its APIs.
 
-#### 3. **Power Platform - Synchronization Monitoring app**: Model driven app to monitor the status of the sync job, re-trigger any failed sync or trigger ad-hoc sync.
+ 3. **Power Platform - Synchronization Monitoring app**: Model driven app to monitor the status of the sync job, re-trigger any failed sync or trigger ad-hoc sync.
 
-#### 4. **Dynamics 365 Business Central**: Fully mandaged Saas solution operated by Micrososft. It serves as the target system for data synchronization. This project scope does not iclude any customazation to this sistem.
+ 4. **Dynamics 365 Business Central**: Fully mandaged Saas solution operated by Micrososft. It serves as the target system for data synchronization. This project scope does not iclude any customazation to this sistem.
 ## Scenario details
 The synchronization process is designed to ensure that data from the website's PostgreSQL database is accurately and efficiently transferred to Dynamics 365 Business Central. The Azure Logic App will handle the data retrieval, transformation, and synchronization tasks, while the Power Platform app will provide visibility and control over the synchronization process for IT administrators. This architecture allows for real-time or scheduled synchronization, ensuring that Business Central always has the most up-to-date information from the website.
 
