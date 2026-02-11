@@ -1,0 +1,24 @@
+# Power Platform specific
+*.msapp
+connections.json
+settings.json
+
+# Sensitive data
+.env
+*.key
+secrets/
+#  OS files
+.DS_Store
+Thumbs.db
+
+# VS code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+*.tmp
+
