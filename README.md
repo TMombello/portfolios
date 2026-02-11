@@ -55,12 +55,10 @@ I help businesses streamline operations and drive digital transformation with Po
 - 💼 LinkedIn: [Tomas Mombello](https://www.linkedin.com/in/tomas-mombello/)
 
 
-## 📊 Stats
+## 📊 Stack
 
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-
-⭐ **Star this repository if you find it helpful!**
