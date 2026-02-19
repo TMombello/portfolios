@@ -60,5 +60,6 @@ I help businesses streamline operations and drive digital transformation with Po
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Dataverse](https://img.shields.io/badge/Dataverse-6CA651?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0AC4E0?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
