@@ -17,7 +17,7 @@ Specialized in building enterprise solutions using Microsoft Power Platform to a
 ## 🚀 Featured Projects
 
 ### 1. [Power Bi Fleet Tracking](./projects/power-bi-fleet-tracking//)
-
+Project focused on creating a Power BI dashboard to track and analyze fleet performance, including vehicle utilization, maintenance schedules, and fuel consumption to optimize operations and reduce costs.
 
 [View Project →](./projects/power-bi-fleet-tracking/README.md)
 
@@ -25,11 +25,13 @@ Specialized in building enterprise solutions using Microsoft Power Platform to a
 
 ### 2. [Daynamics 365 Bussines Central Syncronization](./projects/Sync-Bussines-Central-Project/)
 Synchronization between a public website database and Dynamics 365 Business Central using Azure Logic Apps and a Model-Driven Power App for monitoring.
+
 [View Project →](./projects/Sync-Bussines-Central-Project/README.md)
 
 ---
 
 ### 3. [Environmental Sheets App](./projects/environmental-sheets-app/)
+This project involved developing a Power App to manage and track environmental data, including emissions, waste management, and sustainability initiatives, with integration to Sharepoint for data storage and Power BI for reporting.
 
 [View Project →](./projects/environmental-sheets-app/README.md)
 
