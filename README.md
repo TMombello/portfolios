@@ -12,7 +12,7 @@ Specialized in building enterprise solutions using Microsoft Power Platform to a
 - **Power Automate**: Cloud Flows, Desktop Flows (RPA), Custom Connectors.
 - **Power BI**: Interactive Dashboards, DAX, Data Modeling.
 - **Dataverse**: Data modeling, Business Rules, Security.
-- **Integration**: SharePoint, Teams, Dynamics 365, Azure.
+- **Integration**: SharePoint, Teams, Dynamics 365, **Azure**.
 
 ## 🚀 Featured Projects
 
