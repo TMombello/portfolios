@@ -17,6 +17,6 @@ The following steps describe the workflow that's shown in the architecture diagr
 ## Scenario details
 Before the implementation of the Environmental Sheets App, the process of submitting and managing environmental sheets was manual and time-consuming. Inspectors had to fill out paper forms, take photos, and submit them to approvers via email or in person. This often led to delays in the approval process and difficulties in tracking and managing the sheets.
 The Environmental Sheets App is designed to streamline the process of submitting and managing environmental sheets. Inspectors can easily fill out the necessary information and upload images as evidence of environmental damage. The approval process is automated through Power Automate, ensuring that approvers are notified promptly. The use of SharePoint for data storage allows for organized record-keeping, while the Power BI dashboard provides valuable insights for management to make informed decisions and take necessary actions to address environmental issues.
-## Consderations
+## Considerations
 - **User Training**: It is important to provide training to inspectors and approvers on how to use the Environmental Sheets App effectively. This will ensure that they are comfortable with the new process and can utilize all the features of the app.
 

@@ -23,7 +23,7 @@ Project focused on creating a Power BI dashboard to track and analyze fleet perf
 
 ---
 
-### 2. [Daynamics 365 Bussines Central Syncronization](./projects/Sync-Bussines-Central-Project/)
+### 2. [Dynamics 365 Bussines Central Syncronization](./projects/Sync-Bussines-Central-Project/)
 Synchronization between a public website database and Dynamics 365 Business Central using Azure Logic Apps and a Model-Driven Power App for monitoring.
 
 [View Project →](./projects/Sync-Bussines-Central-Project/README.md)
